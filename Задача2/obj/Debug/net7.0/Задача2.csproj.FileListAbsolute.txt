@@ -1,0 +1,15 @@
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.csproj.AssemblyReference.cache
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfoInputs.cache
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfo.cs
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\Арар\Desktop\Dzmas5\Задача2\bin\Debug\net7.0\Задача2.exe
+C:\Users\Арар\Desktop\Dzmas5\Задача2\bin\Debug\net7.0\Задача2.deps.json
+C:\Users\Арар\Desktop\Dzmas5\Задача2\bin\Debug\net7.0\Задача2.runtimeconfig.json
+C:\Users\Арар\Desktop\Dzmas5\Задача2\bin\Debug\net7.0\Задача2.dll
+C:\Users\Арар\Desktop\Dzmas5\Задача2\bin\Debug\net7.0\Задача2.pdb
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.dll
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\refint\Задача2.dll
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.pdb
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\Задача2.genruntimeconfig.cache
+C:\Users\Арар\Desktop\Dzmas5\Задача2\obj\Debug\net7.0\ref\Задача2.dll
